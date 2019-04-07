@@ -24,14 +24,16 @@ For the first assignment, you will begin creating the beginnings of your first w
 
 ### Example:
 
-For example, a "portfolio page" for a user might look like:
-![](https://raw.githubusercontent.com/JackieCasper/fewd-w1-d1-hw/master/assets/portfolio_deliverable.png?token=AJ9WWPd0I8KVrMRgvq6dJMwC301G3_Z8ks5csx49wA%3D%3D)
-
-and an "about me" page for a user might look like this:
+For example, an "about me" page for a user might look like this:
 
 ![](https://raw.githubusercontent.com/JackieCasper/fewd-w1-d1-hw/master/assets/about_me_deliverable.png?token=AJ9WWHpFHNkikVWD2xyw0n1VeOpt2qa5ks5csx7VwA%3D%3D)
 
-These are very very pretty, don't go too crazy with the styling, just be sure to hit the technical requirements above and enough CSS to make the website easy to use and aesthetically pleasing.
+a "portfolio page" for a user might look like:
+![](https://raw.githubusercontent.com/JackieCasper/fewd-w1-d1-hw/master/assets/portfolio_deliverable.png?token=AJ9WWPd0I8KVrMRgvq6dJMwC301G3_Z8ks5csx49wA%3D%3D)
+
+
+
+These are very very pretty, don't go too crazy with the styling, just be sure to hit the technical requirements above and enough CSS to make the website easy to use and aesthetically pleasing. 
 
 ### Bonus
 
