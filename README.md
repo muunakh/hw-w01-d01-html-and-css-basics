@@ -22,15 +22,14 @@ For the first assignment, you will begin creating the beginnings of your first w
 - Follow naming conventions, maintain consistency across your .html and .css files
 - Indent nested elements to increase your code's readability
 
-## Hints
-
-- Remember to link your CSS to your HTML files
-- Open your html in chrome by 
-
 ### Bonus
 
 - Experiment by adding additional HTML tags and CSS properties we did not cover in class - explore!
 
+## Hints
+
+- Remember to link your CSS to your HTML files
+- Open your html in chrome by 
 
 ## Submission
 
