@@ -22,6 +22,17 @@ For the first assignment, you will begin creating the beginnings of your first w
 - Follow naming conventions, maintain consistency across your .html and .css files
 - Indent nested elements to increase your code's readability
 
+### Example:
+
+For example, a "portfolio page" for a user might look like:
+![](https://raw.githubusercontent.com/JackieCasper/fewd-w1-d1-hw/master/assets/portfolio_deliverable.png?token=AJ9WWPd0I8KVrMRgvq6dJMwC301G3_Z8ks5csx49wA%3D%3D)
+
+and an "about me" page for a user might look like this:
+
+![](https://raw.githubusercontent.com/JackieCasper/fewd-w1-d1-hw/master/assets/about_me_deliverable.png?token=AJ9WWHpFHNkikVWD2xyw0n1VeOpt2qa5ks5csx7VwA%3D%3D)
+
+These are very very pretty, don't go too crazy with the styling, just be sure to hit the technical requirements above and maybe add a little css spice as you see fit.
+
 ### Bonus
 
 - Experiment by adding additional HTML tags and CSS properties we did not cover in class - explore!
@@ -33,4 +44,4 @@ For the first assignment, you will begin creating the beginnings of your first w
 
 ## Submission
 
-Normally homework will be due at midnight the day it is assigned and will submitted using github. For this assignment we are going to go over the submission process together first thing tomorrow morning.  
+Normally homework will be due at midnight the day it is assigned and will submitted using github.  We don't know how to do this yet, so for this homework (and this homework only!) **it is due before class tomorrow**.  We'll be going over the submission process together in the morning.
