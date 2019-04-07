@@ -31,7 +31,7 @@ and an "about me" page for a user might look like this:
 
 ![](https://raw.githubusercontent.com/JackieCasper/fewd-w1-d1-hw/master/assets/about_me_deliverable.png?token=AJ9WWHpFHNkikVWD2xyw0n1VeOpt2qa5ks5csx7VwA%3D%3D)
 
-These are very very pretty, don't go too crazy with the styling, just be sure to hit the technical requirements above and maybe add a little css spice as you see fit.
+These are very very pretty, don't go too crazy with the styling, just be sure to hit the technical requirements above and enough CSS to make the website easy to use and aesthetically pleasing.
 
 ### Bonus
 
@@ -40,7 +40,8 @@ These are very very pretty, don't go too crazy with the styling, just be sure to
 ## Hints
 
 - Remember to link your CSS to your HTML files
-- Open your html in chrome by 
+- Open your html in chrome.  You can do this by either double clicking the index.html or about.html files, OR you can type `open index.html` in the command line!  Your choice.  In any case, open up your html page in chrome while you work.
+- Your workflow should be 1. make changes to your html/css 2. save the files 3. refresh the page in chrome to make sure you got what you expected.  Repeat for all the changes!
 
 ## Submission
 
